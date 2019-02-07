@@ -1,5 +1,5 @@
 import React from 'react';
-import {StyleSheet, Text, View, StatusBar} from 'react-native';
+import {StyleSheet, View, StatusBar} from 'react-native';
 
 // components
 import ParallaxProfile from './ParallaxProfile'
